@@ -2,3 +2,5 @@
 \.ipynb_checkpoints/
 
 MNIST_data/
+
+graph\.gexf
