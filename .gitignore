@@ -4,3 +4,5 @@
 MNIST_data/
 
 graph\.gexf
+
+*.gexf
